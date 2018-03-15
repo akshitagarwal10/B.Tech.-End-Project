@@ -5,7 +5,7 @@ Akshit Agarwal (IPG2014008)
 Ayush Gupta (IPG2014026)
 ***********************************************
 
-**Please note that the actual report for the research is not uploaded due to copyright issued, please refer to the presentaion to know the details of the research done.
+**Please note that the actual report for the research is not uploaded due to copyright issues, please refer to the presentaion pdf to know the details of the research done.
 
 Set up the Environment:
 1. From the dependicies folder install the pycharm software and python.
