@@ -2,7 +2,6 @@
 This work is a copyright of ABV-IIITM students:
 Abhishek Anjana (IPG2014001)
 Akshit Agarwal (IPG2014008)
-Ayush Gupta (IPG2014026)
 Hitesh Khatwani (IPG2014041)
 ***********************************************
 
